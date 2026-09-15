@@ -145,7 +145,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is like the phonebook of the internet. It converts easy-to-remember domain names, such as google.com, into IP addresses that computers use to find websites.
+
+To connect a domain to a given IPv4 address, an A record should be used because it maps a domain name to an IPv4 address. For an IPv6 address, an AAAA record is used. DNS helps users access websites without remembering complex IP addresses.
 
 ---
 
