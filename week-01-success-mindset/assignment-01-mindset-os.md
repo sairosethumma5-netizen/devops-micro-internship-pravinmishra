@@ -32,12 +32,9 @@ You will reuse this in later weeks. So do it properly once.
 **Hint:** What do you believe about career, money, learning, discipline, relationships, health, success, life, tech industry, etc. that most people don't agree with?
 
 ## Answer
-
-Here is a simple, original-sounding answer for your internship assignment (50+ words):
-
-### What is something you believe to be true that most people around you would disagree with?
-
 I believe that getting a degree is not enough to become successful in life. Many people around me think that good marks and a college degree are the main keys to a good career. But I believe that real skills, practical knowledge, and continuous learning are more important. Even if someone is not a topper, they can achieve great success by working hard, learning from mistakes, and improving every day. In the tech industry, skills and experience matter more than just certificates. I believe that anyone who is willing to learn and never give up can build a better future.
+
+
 
 
 ---
