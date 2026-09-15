@@ -259,19 +259,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found learning basic networking concepts like IP addresses, protocols, and DNS easy. Drawing two-tier and three-tier application diagrams was also interesting.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Understanding packet switching, TCP/IP, and the difference between two-tier and three-tier applications was a little difficult. I also found DNS record types challenging at first.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I will improve my networking knowledge by practicing more examples and learning new DevOps concepts. I will also work on my technical skills and complete assignments on time.
 
 ---
 
