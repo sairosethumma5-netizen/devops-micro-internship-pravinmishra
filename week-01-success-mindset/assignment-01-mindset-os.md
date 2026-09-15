@@ -57,11 +57,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistent practice improves my skills more than studying only before exams.
 
 ### Evidence from my life
 
-Add your answer here...
+I tried learning networking concepts and completing internship assignments regularly. At first, I found some topics difficult, but after practicing and revising, I understood them better. This showed me that regular practice helps me learn faster and with more confidence.
 
 ---
 
@@ -69,11 +69,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Practical learning helps me understand technical concepts better than only reading theory.
 
 ### Evidence from my life
 
-Add your answer here...
+I tried learning networking concepts such as protocols, DNS, IP addresses, and TCP/IP through practical examples. When I connected the concepts to real-life situations and completed assignments, I understood them more clearly. This showed me that applying knowledge improves my understanding.
 
 ---
 
@@ -81,11 +81,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Breaking a difficult task into smaller steps makes it easier to complete.
 
 ### Evidence from my life
 
-Add your answer here...
+I tried completing my internship assignments one task at a time instead of doing everything together. I first understood the question, then prepared the answer, and finally checked my work. This helped me complete assignments with less confusion and improved my confidence.
 
 ---
 
