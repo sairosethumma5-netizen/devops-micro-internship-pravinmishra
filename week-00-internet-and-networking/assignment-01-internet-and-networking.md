@@ -25,7 +25,8 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](<img width="782" height="230" alt="Capture" src="https://github.com/user-attachments/assets/3e3960c3-fab9-41c8-b191-c5c53f90da55" />
+)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,7 +35,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a protocol is a set of rules used for communication between devices in a network. I understood that protocols help computers send and receive data correctly. HTTP is an example of a networking protocol used to transfer web pages.
 
 ---
 
