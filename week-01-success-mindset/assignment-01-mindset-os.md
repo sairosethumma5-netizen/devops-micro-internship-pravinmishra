@@ -205,7 +205,8 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Sometimes I have taken shortcuts in my studies or work instead of doing everything properly. At that time, I felt temporary relief because I finished the task quickly. Later, I felt guilty and stressed because I knew I could have done better. It made me realize that shortcuts may save time, but they can reduce the quality of my work and learning. I learned that honesty, responsibility, and consistent effort are important for personal and professional growth. In the future, I will try to complete my work sincerely and learn from my mistakes.
+
 
 ---
 
