@@ -173,7 +173,7 @@ This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer T
 
 Paste your link here:
 
-`Add your URL here`
+https://lnkd.in/p/ggQgYVMk
 
 ---
 
