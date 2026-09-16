@@ -387,7 +387,7 @@ https://lnkd.in/p/gqHF7r5d
 ## 10. Proof of Work
 
 - LinkedIn Post URL:https://lnkd.in/p/gqHF7r5d
-- Blog / Medium : **ADD LINK HERE**  
+- Blog / Medium : https://medium.com/@sairosethumma5/week01-success-mindset-13c7874b2394?sharedUserId=sairosethumma5 
 
 ---
 
