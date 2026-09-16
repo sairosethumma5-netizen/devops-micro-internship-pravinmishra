@@ -240,10 +240,8 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 ## LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
-
 ```text
-Add your URL here...
+https://lnkd.in/p/ggBdv4H
 ```
 
 ---
@@ -252,7 +250,60 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🚀 **Week 00 Completed | DevOps Micro Internship (DMI)**
+
+Excited to share my learning journey as I completed Week 00 of the **DevOps Micro Internship (DMI) with Agentic AI** by Pravin Mishra.
+
+This week, I explored the fundamentals of Internet, Networking, and Application Architecture.
+
+📌 **What I Learned:**
+
+🤖 **1. ChatGPT as a Learning Assistant**
+
+* Learned how to write clear and effective prompts.
+* Understood networking protocols with real-life examples.
+
+🌐 **2. Internet & Networking**
+
+* Packet Switching
+* IP Address
+* TCP/IP
+* HTTP & HTTPS
+
+🏗️ **3. Application Architecture**
+
+* Two-Tier Architecture
+* Three-Tier Architecture
+* Frontend, Backend & Database
+* Technologies like HTML, CSS, JavaScript, Node.js, Express.js, MySQL & PostgreSQL.
+
+🔗 **4. DNS (Domain Name System)**
+
+* Understood how domain names connect to IP addresses.
+* Learned about A records and AAAA records.
+
+💻 **5. VS Code Setup**
+
+* Set up Visual Studio Code.
+* Practiced using the terminal and basic commands.
+
+✨ **Key Takeaway:**
+This week helped me build a strong foundation in networking and understand how websites communicate over the internet. Looking forward to learning more about DevOps, automation, and cloud technologies!
+
+A big thank you to **Pravin Mishra** for this learning opportunity.
+
+📚 Learning. Building. Growing. 🚀
+
+#DMIByPravinMishra #AgenticAI #DevOps #Networking #Internet #CloudComputing #LearningJourney #TechStudent #DevOpsInternship
+
+---
+
+**P.S.** This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra.
+
+My graded progress is public: https://dmi.pravinmishra.com/s/sairosethumma5-netizen.html
+
+Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
+
 
 ---
 
