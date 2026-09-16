@@ -380,13 +380,13 @@ I will spend 1 hour daily on DevOps learning and assignments from 7:00 PM to 8:0
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+https://lnkd.in/p/gqHF7r5d
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- LinkedIn Post URL:https://lnkd.in/p/gqHF7r5d
 - Blog / Medium : **ADD LINK HERE**  
 
 ---
