@@ -300,11 +300,11 @@ Examples:
 
 ### Did You Do It?
 
-**Yes / No**
+**Yes
 
 Answer:
 
-Add your answer here...
+I wrote down my thoughts, tasks, goals, and responsibilities in my notebook.
 
 ---
 
@@ -322,7 +322,10 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday–Thursday: 1 hour of focused study and DevOps learning.
+Friday: Practice technical skills.
+Saturday: Complete DMI assignments and projects.
+Sunday: Weekly review and plan for the next week.
 
 ---
 
@@ -330,11 +333,13 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday–Thursday: 7:00 PM – 8:00 PM
+
+Saturday: 10:00 AM – 12:00 PM
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+1 sessions per week.
 
 ---
 
@@ -348,7 +353,12 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Keep my phone away during study time.
+Avoid social media while learning.
+Study in a quiet environment.
+Focus on one task at a time.
+Complete assignments before entertainment.
+Take short breaks when needed.
 
 ---
 
