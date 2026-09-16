@@ -25,7 +25,8 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](<img width="782" height="230" alt="Capture" src="https://github.com/user-attachments/assets/3e3960c3-fab9-41c8-b191-c5c53f90da55" />
+![Task 1 Screenshot]!(<img width="809" height="430" alt="task 1 screenshot" src="https://github.com/user-attachments/assets/3b80e911-ec55-47a6-bf81-3cbf20caf750" />
+
 )
 
 
