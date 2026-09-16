@@ -183,7 +183,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](<img width="1366" height="768" alt="Capture" src="https://github.com/user-attachments/assets/240c6604-0f76-4e40-9da9-d089bf955700" />
+![VS Code Setup Screenshot]!(<img width="1366" height="768" alt="Capture" src="https://github.com/user-attachments/assets/240c6604-0f76-4e40-9da9-d089bf955700" />
 )
 
 
