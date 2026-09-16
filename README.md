@@ -14,7 +14,7 @@
 
 | | |
 |---|---|
-| **Name** | SaiRose Thumma |
+| **Name** | Sairose Thumma |
 | **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
 | **Location** | Telangana India |
 | **Background** | Cloud, DevOps & AI Consultant |
