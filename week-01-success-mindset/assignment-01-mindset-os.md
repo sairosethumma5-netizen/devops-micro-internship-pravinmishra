@@ -366,15 +366,15 @@ Take short breaks when needed.
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I learned that consistency and self-discipline are more important than motivation. I can improve my skills by taking small steps every day.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is procrastination and getting distracted by my phone. Sometimes I delay tasks instead of completing them on time
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will spend 1 hour daily on DevOps learning and assignments from 7:00 PM to 8:00 PM. I will keep my phone away and focus on completing one task at a time.
 
 ### LinkedIn Post
 
