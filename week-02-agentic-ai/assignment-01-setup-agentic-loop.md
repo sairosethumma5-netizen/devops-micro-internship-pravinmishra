@@ -20,7 +20,8 @@ Install the Claude Code CLI globally and authenticate it using your Anthropic ac
 
 #### Screenshot 1 — Terminal showing `claude --version` with the version number visible
 
-Add your screenshot here.
+<img width="1038" height="586" alt="Capture" src="https://github.com/user-attachments/assets/69e41e78-966d-4ef7-9600-74e41a59daee" />
+
 
 ---
 
