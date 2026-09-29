@@ -130,7 +130,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | completed | solved | https://medium.com/@sairosethumma5/week-00-completed-devops-micro-internship-dmi-10098fc6decf| https://medium.com/@sairosethumma5/week-00-completed-devops-micro-internship-dmi-10098fc6decf |
+| 00 | Internet & Networking Basics | completed | solved | https://lnkd.in/p/erc-cKWa | https://medium.com/@sairosethumma5/week-00-internet-networking-starting-my-devops-journey-3e74ab1870c2?sharedUserId=sairosethumma5 |
 | 01 | Success Mindset |  ✅ Completed<br> |  ✅ Solved
 | https://lnkd.in/p/gqHF7r5d | https://medium.com/@sairosethumma5/week01-success-mindset-13c7874b2394?sharedUserId=sairosethumma5 |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
