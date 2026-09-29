@@ -27,7 +27,8 @@ Install the Claude Code CLI globally and authenticate it using your Anthropic ac
 
 #### Screenshot 2 — Claude Code authenticated and showing the terminal prompt (your name visible)
 
-Add your screenshot here.
+<img width="1069" height="545" alt="image" src="https://github.com/user-attachments/assets/c7b3c6c6-f3d5-4d0d-bbdf-a115ae5237f8" />
+
 
 ---
 
@@ -41,7 +42,7 @@ Fork the provided GitHub repository, clone it to your local machine, and open it
 
 #### Screenshot 3 — VS Code with the project open, file tree visible showing `index.html`, `style.css`, `images/`
 
-Add your screenshot here.
+
 
 ---
 
