@@ -90,7 +90,10 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/sairosethumma5-netizen/Ultimate-Agentic-DevOps-with-Claude-Code
+
+https://github.com/sairosethumma5-netizen/devops-micro-internship-pravinmishra
+
 
 ## LinkedIn post URL
 
