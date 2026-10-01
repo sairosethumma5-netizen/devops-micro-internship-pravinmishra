@@ -119,7 +119,11 @@ Celebrate your progress and share your DMI Leaderboard achievement on WhatsApp.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/sairosethumma5-netizen/Ultimate-Agentic-DevOps-with-Claude-Code
+
+https://github.com/sairosethumma5-netizen/devops-micro-internship-pravinmishra
+
+
 
 ---
 
