@@ -130,8 +130,8 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://lnkd.in/p/erc-cKWa | https://medium.com/@sairosethumma5/week-00-internet-networking-starting-my-devops-journey-3e74ab1870c2?sharedUserId=sairosethumma5 |
-| 01 | Success Mindset |  ✅ Completed |  ✅ Solved | https://lnkd.in/p/eJkv3tXg | https://medium.com/@sairosethumma5/week-01-success-mindset-089a05fd3306?sharedUserId=sairosethumma5 |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/feed/update/urn:li:activity:7510614134623907841/| https://medium.com/@sairosethumma5/week-00-internet-networking-starting-my-devops-journey-3e74ab1870c2?sharedUserId=sairosethumma5 |
+| 01 | Success Mindset |  ✅ Completed |  ✅ Solved | https://www.linkedin.com/feed/update/urn:li:activity:7510619151934062592/ | https://medium.com/@sairosethumma5/week-01-success-mindset-089a05fd3306?sharedUserId=sairosethumma5 |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
