@@ -20,7 +20,8 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-Add your screenshot here.
+<img width="1598" height="687" alt="WhatsApp Image 2026-10-03 at 4 00 03 PM" src="https://github.com/user-attachments/assets/e0975350-256d-4109-bb9e-8fcefa422e3b" />
+
 
 ---
 
@@ -71,13 +72,15 @@ This is useful because:
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+<img width="1458" height="634" alt="WhatsApp Image 2026-10-03 at 4 00 10 PM" src="https://github.com/user-attachments/assets/7ffc04d5-6c9c-4d36-87a8-12e5774e792b" />
+
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+<img width="1530" height="674" alt="WhatsApp Image 2026-10-03 at 4 00 17 PM" src="https://github.com/user-attachments/assets/e5385fb6-2685-4ea9-a223-5a2396844945" />
+
 
 ---
 
@@ -91,13 +94,15 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-Add your screenshot here.
+<img width="1600" height="611" alt="WhatsApp Image 2026-10-03 at 4 00 28 PM" src="https://github.com/user-attachments/assets/cad2d70c-621d-4a62-96a0-a5aedf3ddffa" />
+
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+<img width="1600" height="642" alt="WhatsApp Image 2026-10-03 at 4 00 28 PM (1)" src="https://github.com/user-attachments/assets/83307a2d-5796-49c4-9cdb-cab9cf55b2ad" />
+.
 
 ---
 
@@ -111,7 +116,8 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
+<img width="1600" height="767" alt="WhatsApp Image 2026-10-03 at 4 00 28 PM (2)" src="https://github.com/user-attachments/assets/af16060b-dfce-4e39-a115-9651c5f1b350" />
+
 
 ---
 
