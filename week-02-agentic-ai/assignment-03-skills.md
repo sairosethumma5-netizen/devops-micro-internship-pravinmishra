@@ -104,7 +104,7 @@ https://github.com/sairosethumma5-netizen/devops-micro-internship-pravinmishra
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://lnkd.in/p/g2mUrwBu
 ---
 
 # Completion Checklist
