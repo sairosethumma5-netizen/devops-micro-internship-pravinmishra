@@ -107,6 +107,8 @@ Prove the tool-level hook works by asking Claude to execute a dangerous Bash com
 ### Evidence
 
 #### Screenshot 7 — PreToolUse hook blocking terraform destroy
+<img width="1366" height="679" alt="image" src="https://github.com/user-attachments/assets/3582bab7-4394-4bd3-938c-080a65aa8294" />
+
 ---
 
 # Task 8 — Test the PostToolUse Logging Hook
