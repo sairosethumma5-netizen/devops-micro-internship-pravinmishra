@@ -20,7 +20,8 @@ Discover exactly where Claude Code stores memory for this project.
 
 #### Screenshot 1 — Memory file path shown by Claude
 
-Add your screenshot here.
+<img width="1366" height="682" alt="image" src="https://github.com/user-attachments/assets/183048a9-f4ea-49b3-8931-59b5423b74a4" />
+
 
 ---
 
@@ -34,13 +35,15 @@ Teach Claude three specific facts about the project and instruct it to save them
 
 #### Screenshot 2 — Claude confirming the memory was saved
 
-Add your screenshot here.
+<img width="1366" height="680" alt="image" src="https://github.com/user-attachments/assets/a87f12a3-6288-4d59-a19d-86e0f9d63ab1" />
+
 
 ---
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
-Add your screenshot here.
+<img width="1366" height="683" alt="image" src="https://github.com/user-attachments/assets/3adefe0e-e6c4-4106-bf85-eec9935a5afd" />
+
 
 ---
 
@@ -54,7 +57,8 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 #### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
-Add your screenshot here.
+<img width="1366" height="498" alt="image" src="https://github.com/user-attachments/assets/a036e930-1a79-4a14-9a08-70d89001ccf9" />
+
 
 ---
 
@@ -68,13 +72,15 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 #### Screenshot 5 — Claude recalling hero section colors
 
-Add your screenshot here.
+<img width="1366" height="681" alt="image" src="https://github.com/user-attachments/assets/ef30e6be-0750-4bde-b2dd-01b0b3b92b0c" />
+
 
 ---
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
-Add your screenshot here.
+<img width="1366" height="677" alt="image" src="https://github.com/user-attachments/assets/bb0b3a33-ad27-472a-86a2-4dd430035407" />
+
 
 ---
 
