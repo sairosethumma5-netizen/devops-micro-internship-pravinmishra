@@ -20,19 +20,45 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+An AWS account is your personal or organization account used to access Amazon Web Services (AWS) cloud services.
+At this stage of your DevOps Micro Internship, you need an AWS account because your project uses AWS infrastructure:
+- Amazon S3 – to store and host your static website files.
+- CloudFront – to deliver the website quickly through a CDN.
+- Terraform – to create and manage these AWS resources automatically.
+- GitHub Actions – to automate deployment to AWS.
+Simple example
+Your workflow will look like:
+Code → GitHub → GitHub Actions → Terraform → AWS S3 + CloudFront → Website
+So, the AWS account provides the cloud environment where your DevOps project will actually be deployed and tested.
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+As of October 2026, AWS offers a new-account Free account plan for up to 6 months, or until your free credits are used up, whichever comes first. AWS Documentation
+Here's what you get:
+- $100 in AWS credits when you create a new account.
+- An opportunity to earn up to an additional $100 in credits by completing eligible activities.
+- Access to more than 30 services with ongoing free usage allowances, subject to individual limits. Amazon Web Services, Inc.
+💻 How does this help your DevOps internship?
+For your project, you plan to use:
+- Amazon S3 — to host your static website.
+- Amazon CloudFront — to deliver your website to visitors.
+- Terraform — to automate AWS infrastructure creation.
+You can explore AWS and deploy your project, but check the pricing and free-plan eligibility of each service before using it.
+⚠️ Important things to remember
+1. The Free account plan ends after six months or when your credits run out.
+2. After the Free plan expires, your account closes unless you upgrade within the applicable recovery period.
+3. Some services have separate free usage limits, and those limits may continue after the six-month period.
+4. Monitor your credit balance and usage to avoid unexpected costs if you upgrade to a paid plan.
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+Amazon EC2: Provides free usage for eligible virtual server instances within the applicable plan limits.
+Amazon S3: Offers free storage for eligible usage within the applicable monthly limits.
+AWS Lambda: Offers a free monthly allowance of 1 million requests and 400,000 GB-seconds of compute time under its eligible free usage allowance
 
 ---
 
