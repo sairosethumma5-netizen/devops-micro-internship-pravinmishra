@@ -46,7 +46,16 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+<img width="1363" height="646" alt="week2 1" src="https://github.com/user-attachments/assets/98ce554f-b26d-4f54-97c0-3608c0699b51" />
+<img width="1361" height="638" alt="week 2 2" src="https://github.com/user-attachments/assets/ed239015-ee89-4182-85f4-eb302c8df124" />
+<img width="1366" height="641" alt="wek 2 3" src="https://github.com/user-attachments/assets/827529af-bccf-4405-a020-60edb91baabf" />
+<img width="1356" height="647" alt="week 2 4" src="https://github.com/user-attachments/assets/3e74fafa-6cba-41ae-ac7c-d87a40ac976b" />
+<img width="1362" height="635" alt="week 2 5" src="https://github.com/user-attachments/assets/e4d3a41b-1bb1-47ac-addf-05840d706092" />
+
+
+
+
+
 
 ---
 
@@ -54,7 +63,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`Add your URL here`
+https://medium.com/@sairosethumma5/reflection-week-2-9f74bc45aff8?sharedUserId=sairosethumma5
 
 ---
 
