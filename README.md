@@ -130,7 +130,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/feed/update/urn:li:activity:7510614134623907841/| https://medium.com/@sairosethumma5/week-00-internet-networking-starting-my-devops-journey-3e74ab1870c2?sharedUserId=sairosethumma5 |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved |https://www.linkedin.com/feed/update/urn:li:activity:7510614134623907841/| https://medium.com/@sairosethumma5/week-00-internet-networking-starting-my-devops-journey-3e74ab1870c2?sharedUserId=sairosethumma5 |
 | 01 | Success Mindset |  ✅ Completed |  ✅ Solved | https://www.linkedin.com/feed/update/urn:li:activity:7510619151934062592/ | https://medium.com/@sairosethumma5/week-01-success-mindset-089a05fd3306?sharedUserId=sairosethumma5 |
 | 02 | Agentic AI with Claude Code |  ✅ Complete |  ✅ Solved | https://www.linkedin.com/posts/sairose-thumma-950138395_dmibypravinmishra-agenticai-devops-share-7521199942342881281-KMTS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGEEikwBogmtYS77a0wL6EI6fXg93dSzPwA | https://medium.com/@sairosethumma5/reflection-week-2-9f74bc45aff8?sharedUserId=sairosethumma5 |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
