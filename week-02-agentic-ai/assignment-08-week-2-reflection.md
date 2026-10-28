@@ -79,7 +79,8 @@ Share your Week 2 learning publicly on LinkedIn.
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+<img width="1366" height="684" alt="image" src="https://github.com/user-attachments/assets/eb280d6f-72ac-4fd4-97ed-e3de921388e3" />
+
 
 ---
 
@@ -88,14 +89,39 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+🚀 **Week 2 Reflection | DevOps Micro Internship (DMI) with Agentic AI**
+
+I’m happy to share my learning experience from Week 2 of the DevOps Micro Internship with Agentic AI! 🎯
+
+This week, I explored several important concepts that helped me understand how AI can improve software development and DevOps workflows.
+
+💡 **Key Learnings:**
+🔹 **Claude Code** – Using AI to assist with coding, file management, and development tasks.
+🔹 **Skills & Subagents** – Organizing reusable instructions and delegating specialized tasks to AI agents.
+🔹 **Model Context Protocol (MCP)** – Understanding how AI assistants can connect with external tools and services.
+🔹 **Permissions & Memory** – Learning the importance of secure tool access and retaining useful project context.
+🔹 **Hooks** – Exploring how automated actions can support development workflows.
+
+🛠️ **Challenges & Takeaways**
+
+Working with terminal commands and configurations helped me understand the importance of troubleshooting, patience, and problem-solving. I learned that AI tools are powerful assistants, but understanding the process and verifying their outputs are equally important.
+
+📈 **My Next Step**
+
+I plan to dedicate at least one hour every day to practicing DevOps concepts, building projects, and documenting what I learn. Consistent practice and learning from mistakes will help me grow as an aspiring DevOps Engineer.
+
+Every week is an opportunity to learn, improve, and move one step closer to my career goals!
+
+Thank you to everyone supporting my learning journey.
+
+#DMIByPravinMishra #AgenticAI #DevOps #ClaudeCode #LearningJourney
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+https://lnkd.in/p/gdgHJ2m7
 
 ---
 
