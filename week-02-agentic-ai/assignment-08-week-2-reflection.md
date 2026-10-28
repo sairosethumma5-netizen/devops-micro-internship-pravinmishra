@@ -121,7 +121,7 @@ Thank you to everyone supporting my learning journey.
 
 ### LinkedIn Post Link:
 
-https://lnkd.in/p/gdgHJ2m7
+https://www.linkedin.com/posts/sairose-thumma-950138395_dmibypravinmishra-agenticai-devops-share-7521199942342881281-KMTS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGEEikwBogmtYS77a0wL6EI6fXg93dSzPwA
 
 ---
 
