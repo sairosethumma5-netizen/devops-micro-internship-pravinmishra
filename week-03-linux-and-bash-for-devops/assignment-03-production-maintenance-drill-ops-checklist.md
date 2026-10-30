@@ -87,13 +87,15 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
-Add your screenshot here.
+<img width="549" height="73" alt="image" src="https://github.com/user-attachments/assets/bb779caa-24bd-488b-951f-c0f2c0cd1a7a" />
+
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-Add your screenshot here.
+<img width="1344" height="757" alt="image" src="https://github.com/user-attachments/assets/9259ecf9-55e5-4b3b-92f6-db668dc53ed2" />
+
 
 ---
 
