@@ -141,7 +141,8 @@ Verify the React application is publicly accessible via the server's public IP.
 
 #### Screenshot 10 — Browser showing the deployed React app at `http://<public-ip>` with your name and date visible
 
-Add your screenshot here.
+<img width="653" height="434" alt="image" src="https://github.com/user-attachments/assets/852738ab-572e-4f73-be2f-ccc036b3f707" />
+
 
 ---
 
