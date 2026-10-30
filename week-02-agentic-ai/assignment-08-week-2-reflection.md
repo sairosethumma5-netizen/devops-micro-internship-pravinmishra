@@ -145,7 +145,7 @@ https://www.linkedin.com/posts/sairose-thumma-950138395_dmibypravinmishra-agenti
 * [✅] LinkedIn post content copied in submission field
 * [✅] Blog link added
 * [✅] LinkedIn post link added
-* [ ] Screenshots added to GitHub repo
+* [✅] Screenshots added to GitHub repo
 
 ---
 
