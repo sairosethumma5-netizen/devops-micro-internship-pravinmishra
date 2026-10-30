@@ -27,19 +27,22 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 2 — Output of `ip a`
 
-Add your screenshot here.
+<img width="593" height="49" alt="image" src="https://github.com/user-attachments/assets/9af889d5-b76f-41c2-9974-81f58e5e4a21" />
+
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
-Add your screenshot here.
+<img width="984" height="347" alt="image" src="https://github.com/user-attachments/assets/45d15796-39ab-4031-830e-64a1504c2df6" />
+
 
 ---
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-Add your screenshot here.
+<img width="976" height="306" alt="image" src="https://github.com/user-attachments/assets/1d15e8f1-4b8e-472c-9437-4327a89edbab" />
+
 
 ---
 
